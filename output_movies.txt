@@ -1,0 +1,101 @@
+imdb_id	title
+tt0114709	Toy Story
+tt0113497	Jumanji
+tt0113228	Grumpier Old Men
+tt0114885	Waiting to Exhale
+tt0113041	Father of the Bride Part II
+tt0113277	Heat
+tt0114319	Sabrina
+tt0112302	Tom and Huck
+tt0114576	Sudden Death
+tt0113189	GoldenEye
+tt0112346	The American President
+tt0112896	Dracula: Dead and Loving It
+tt0112453	Balto
+tt0113987	Nixon
+tt0112760	Cutthroat Island
+tt0112641	Casino
+tt0114388	Sense and Sensibility
+tt0113101	Four Rooms
+tt0112281	Ace Ventura: When Nature Calls
+tt0113845	Money Train
+tt0113161	Get Shorty
+tt0112722	Copycat
+tt0112401	Assassins
+tt0114168	Powder
+tt0113627	Leaving Las Vegas
+tt0114057	Othello
+tt0114011	Now and Then
+tt0114117	Persuasion
+tt0112682	The City of Lost Children
+tt0115012	Shanghai Triad
+tt0112792	Dangerous Minds
+tt0114746	Twelve Monkeys
+tt0112431	Babe
+tt0112637	Carrington
+tt0112818	Dead Man Walking
+tt0112286	Across the Sea of Time
+tt0113442	It Takes Two
+tt0112697	Clueless
+tt0112749	Cry, the Beloved Country
+tt0114279	Richard III
+tt0112819	Dead Presidents
+tt0114272	Restoration
+tt0113855	Mortal Kombat
+tt0114681	To Die For
+tt0113347	How To Make An American Quilt
+tt0114369	Se7en
+tt0114148	Pocahontas
+tt0114916	When Night Is Falling
+tt0114814	The Usual Suspects
+tt0109950	Guardian Angel
+tt0113819	Mighty Aphrodite
+tt0110299	Lamerica
+tt0112499	The Big Green
+tt0113158	Georgia
+tt0113541	Kids of the Round Table
+tt0113321	Home for the Holidays
+tt0110877	The Postman
+tt0112714	The Confessional
+tt0113419	The Indian in the Cupboard
+tt0116260	Eye for an Eye
+tt0113862	Mr. Holland's Opus
+tt0116126	Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+tt0118002	Two If by Sea
+tt0115683	Bio-Dome
+tt0116839	Lawnmower Man 2: Beyond Cyberspace
+tt0114753	Two Bits
+tt0113149	French Twist
+tt0113118	Friday
+tt0116367	From Dusk Till Dawn
+tt0113010	Fair Game
+tt0113537	Kicking and Screaming
+tt0113828	Les Miserables
+tt0115644	Bed of Roses
+tt0115676	Big Bully
+tt0114367	Screamers
+tt0113973	Nico Icon
+tt0112744	The Crossing Guard
+tt0116731	The Juror
+tt0112445	The White Balloon
+tt0114660	Things to Do in Denver When You're Dead
+tt0112379	Antonia's Line
+tt0114039	Once Upon a Time... When We Were Colored
+tt0113612	Last Summer in the Hamptons
+tt0112365	Angels and Insects
+tt0118158	White Squall
+tt0116151	Dunston Checks In
+tt0115697	Black Sheep
+tt0113972	Nick of Time
+tt0113490	The Journey of August King
+tt0117002	Mary Reilly
+tt0114825	Vampire in Brooklyn
+tt0115639	Beautiful Girls
+tt0115759	Broken Arrow
+tt0113403	A Midwinter's Tale
+tt0113247	La Haine
+tt0111173	Shopping
+tt0113283	Heidi Fleiss: Hollywood Madam
+tt0115907	City Hall
+tt0115734	Bottle Rocket
+tt0117102	Mr. Wrong
