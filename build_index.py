@@ -27,8 +27,7 @@ df = df[df['imdb_id'].str.startswith('tt')] # Keep only valid IMDB IDs
 # --- !!! SAFETY LIMIT !!! ---
 # Process only the first 100 movies to test.
 # Remove this line to process all 45,000+ movies
-df = df.head(100)
-_100_movies = df.head(100)
+df = df.head(1000)
 
 print(f"Loaded and cleaned data. Processing {len(df)} movies...")
 
@@ -58,11 +57,12 @@ for index, row in df.iterrows():
             documents=[plot],
             metadatas=[{
                 "title": title,
+                "title_lower": title.lower(),
                 "genre": genre
             }],
             ids=[imdb_id] # Use IMDB ID as the unique key
         )
-        print(f"Successfully added {imdb_id} to the database.")
+        print(f"Successfully added {title} to the database.")
 
     except Exception as e:
         print(f"!!! An error occurred for {imdb_id}: {e} !!!")
@@ -77,6 +77,6 @@ print(f"Total movies in database: {collection.count()}")
 print("-" * 30)
 
 # Save the selected columns to a .txt file
-_100_movies[['imdb_id', 'title']].to_csv("output_movies.txt", sep='\t', index=False, header=True)
+df[['imdb_id', 'title']].to_csv("output_movies.txt", sep='\t', index=False, header=True)
 print("Saved imdb_id and title to output_movies.txt")
         

@@ -99,3 +99,903 @@ tt0113283	Heidi Fleiss: Hollywood Madam
 tt0115907	City Hall
 tt0115734	Bottle Rocket
 tt0117102	Mr. Wrong
+tt0118040	Unforgettable
+tt0116483	Happy Gilmore
+tt0112579	The Bridges of Madison County
+tt0110251	Nobody Loves Me
+tt0117110	Muppet Treasure Island
+tt0112646	Catwalk
+tt0113276	Headless Body in Topless Bar
+tt0112573	Braveheart
+tt0075314	Taxi Driver
+tt0113326	Rumble in the Bronx
+tt0115645	Before and After
+tt0113774	Margaret's Museum
+tt0112556	Happiness Is in the Field
+tt0112373	Anne Frank Remembered
+tt0115033	The Young Poisoner's Handbook
+tt0116606	If Lucy Fell
+tt0114536	Steal Big Steal Little
+tt0117427	Race the Sun
+tt0106473	The Boys of St. Vincent
+tt0103859	Boomerang
+tt0109424	Chungking Express
+tt0114808	The Star Maker
+tt0116324	Flirting with Disaster
+tt0110647	The Neverending Story III: Escape from Fantasia
+tt0111055	The Silences of the Palace
+tt0110217	Jupiter's Wife
+tt0114131	Pie in the Sky
+tt0112364	Angela
+tt0113107	Frankie Starlight
+tt0113451	Jade
+tt0114015	Nueba Yol
+tt0114500	Sonic Outlaws
+tt0116130	Down Periscope
+tt0113125	From the Journals of Jean Seberg
+tt0113756	Man of the Year
+tt0113952	The Neon Bible
+tt0114618	Target
+tt0118055	Up Close & Personal
+tt0115685	The Birdcage
+tt0113200	Virgin Mary
+tt0112585	The Brothers McMullen
+tt0112442	Bad Boys
+tt0112342	The Amazing Panda Adventure
+tt0112461	The Basketball Diaries
+tt0112427	An Awfully Big Adventure
+tt0109093	Amateur
+tt0112384	Apollo 13
+tt0114287	Rob Roy
+tt0112288	The Addiction
+tt0112462	Batman Forever
+tt0061395	Belle de Jour
+tt0112495	Beyond Rangoon
+tt0112541	Blue in the Face
+tt0109370	Canadian Bacon
+tt0112642	Casper
+tt0112688	Clockers
+tt0112715	Congo
+tt0112740	Crimson Tide
+tt0109508	Crumb
+tt0112851	Desperado
+tt0112857	Devil in a Blue Dress
+tt0112864	Die Hard: With a Vengeance
+tt0112887	The Doom Generation
+tt0113044	Feast of July
+tt0113071	First Knight
+tt0113114	Free Willy 2 - The Adventure Home
+tt0113243	Hackers
+tt0113464	Jeffrey
+tt0113481	Johnny Mnemonic
+tt0113492	Judge Dredd
+tt0113500	Jury Duty
+tt0113540	Kids
+tt0113677	Living in Oblivion
+tt0113690	Lord of Illusions
+tt0107447	Love & Human Remains
+tt0113729	Mad Love
+tt0113749	Mallrats
+tt0113820	Mighty Morphin Power Rangers: The Movie
+tt0113851	Moonlight and Valentino
+tt0110604	Mute Witness
+tt0110620	Nadja
+tt0113957	The Net
+tt0113986	Nine Months
+tt0114095	Party Girl
+tt0114194	The Prophecy
+tt0114241	Reckless
+tt0114323	Safe
+tt0114345	The Scarlet Letter
+tt0114435	The Show
+tt0114436	Showgirls
+tt0114478	Smoke
+tt0114496	Something to Talk About
+tt0114508	Species
+tt0114534	The Stars Fell on Henrietta
+tt0114558	Strange Days
+tt0058450	The Umbrellas of Cherbourg
+tt0114666	The Tie That Binds
+tt0114663	Three Wishes
+tt0114702	Total Eclipse
+tt0114682	To Wong Foo, Thanks for Everything! Julie Newmar
+tt0114781	Under Siege 2: Dark Territory
+tt0114798	Unstrung Heroes
+tt0114805	Unzipped
+tt0114887	A Walk in the Clouds
+tt0114898	Waterworld
+tt0114928	White Man's Burden
+tt0114938	Wild Bill
+tt0109340	The Browning Version
+tt0112602	Bushwhacked
+tt0111579	Burnt by the Sun
+tt0110882	Before the Rain
+tt0112471	Before Sunrise
+tt0112508	Billy Madison
+tt0112438	The Babysitter
+tt0112571	Boys on the Side
+tt0112757	The Cure
+tt0112643	Castle Freak
+tt0112679	Circle of Friends
+tt0109445	Clerks
+tt0112883	Don Juan DeMarco
+tt0109635	Disclosure
+tt0112899	Dream Man
+tt0109676	Drop Zone
+tt0112854	Destiny Turns on the Radio
+tt0109579	Death and the Maiden
+tt0109642	Dolores Claiborne
+tt0109686	Dumb and Dumber
+tt0111797	Eat Drink Man Woman
+tt0109759	Exotica
+tt0109758	Exit to Eden
+tt0109707	Ed Wood
+tt0113117	French Kiss
+tt0113097	Forget Paris
+tt0113028	Far from Home: The Adventures of Yellow Dog
+tt0113198	A Goofy Movie
+tt0113303	Hideaway
+tt0113089	Fluke
+tt0109771	Farinelli
+tt0113199	Gordy
+tt0113234	Gumby: The Movie
+tt0109906	The Glass Shield
+tt0110057	Hoop Dreams
+tt0110005	Heavenly Creatures
+tt0110066	Houseguest
+tt0110116	Immortal Beloved
+tt0110006	Heavyweights
+tt0113360	The Hunted
+tt0110099	I.Q.
+tt0110148	Interview with the Vampire
+tt0113463	Jefferson in Paris
+tt0110189	The Jerky Boys
+tt0110216	Junior
+tt0113501	Just Cause
+tt0113538	A Kid in King Arthur's Court
+tt0113552	Kiss of Death
+tt0076759	Star Wars
+tt0110367	Little Women
+tt0113670	A Little Princess
+tt0110296	Ladybird Ladybird
+tt0109731	L'Enfer
+tt0103994	Like Water for Chocolate
+tt0110322	Legends of the Fall
+tt0110443	Major Payne
+tt0110365	Little Odessa
+tt0107566	Mi Vida Loca
+tt0110391	Love Affair
+tt0113691	Losing Isaiah
+tt0110428	The Madness of King George
+tt0109836	Mary Shelley's Frankenstein
+tt0113755	Man of the House
+tt0110538	Mixed Nuts
+tt0110516	Milk Money
+tt0110527	Miracle on 34th Street
+tt0113808	Miami Rhapsody
+tt0113896	My Family
+tt0113870	Murder in the First
+tt0110684	Nobody's Fool
+tt0110638	Nell
+tt0113967	New Jersey Drive
+tt0117169	New York Cop
+tt0106402	Beyond Bedlam
+tt0113948	Nemesis 2 - Nebula
+tt0110671	Nina Takes a Lover
+tt0110632	Natural Born Killers
+tt0110737	Only You
+tt0110729	Once Were Warriors
+tt0114151	Poison Ivy II: Lily
+tt0114069	Outbreak
+tt0110413	Leon: The Professional
+tt0114113	The Perez Family
+tt0114210	A Pyromaniac's Love Story
+tt0110912	Pulp Fiction
+tt0114084	Panther
+tt0105652	Pushing Hands
+tt0110889	Priest
+tt0110932	Quiz Show
+tt0114129	Picture Bride
+tt0110963	Queen Margot
+tt0114214	The Quick and the Dead
+tt0110907	Prêt-à-Porter
+tt0111495	Three Colors: Red
+tt0108394	Three Colors: Blue
+tt0111507	Three Colors: White
+tt0110769	Red Firecracker, Green Firecracker
+tt0114268	Rent-a-Kid
+tt0110965	Relative Fear
+tt0114571	Stuart Saves His Family
+tt0111333	The Swan Princess
+tt0111112	The Secret of Roan Inish
+tt0111255	The Specialist
+tt0111282	Stargate
+tt0111070	The Santa Clause
+tt0111161	The Shawshank Redemption
+tt0111149	Shallow Grave
+tt0108260	Suture
+tt0106966	Strawberry and Chocolate
+tt0114594	Swimming with Sharks
+tt0111309	The Sum of Us
+tt0113936	Senior Trip
+tt0110081	To Live
+tt0114614	Tank Girl
+tt0114608	Tales from the Crypt: Demon Knight
+tt0111280	Star Trek: Generations
+tt0114609	Tales from the Hood
+tt0111454	Tom & Viv
+tt0114852	Village of the Damned
+tt0114694	Tommy Boy
+tt0111590	Vanya on 42nd Street
+tt0114788	The Underneath
+tt0114888	The Walking Dead
+tt0108550	What's Eating Gilbert Grape
+tt0114857	Virtuosity
+tt0114924	While You Were Sleeping
+tt0111667	The War
+tt0109655	Double Happiness
+tt0110598	Muriel's Wedding
+tt0112435	The Baby-Sitters Club
+tt0109040	Ace Ventura: Pet Detective
+tt0109045	The Adventures of Priscilla, Queen of the Desert
+tt0106339	Backbeat
+tt0104779	Bitter Moon
+tt0109348	Bullets Over Broadway
+tt0109444	Clear and Present Danger
+tt0109446	The Client
+tt0109484	Corrina, Corrina
+tt0109504	Crooklyn
+tt0109506	The Crow
+tt0109450	Cobb
+tt0109813	The Flintstones
+tt0109830	Forrest Gump
+tt0109831	Four Weddings and a Funeral
+tt0113305	Higher Learning
+tt0110091	I Like It Like That
+tt0110093	I Love Trouble
+tt0110167	It Could Happen to You
+tt0110213	The Jungle Book
+tt0107472	The Wonderful, Horrible Life of Leni Riefenstahl
+tt0110357	The Lion King
+tt0107426	Little Buddha
+tt0111686	New Nightmare
+tt0110475	The Mask
+tt0110478	Maverick
+tt0110588	Mrs. Parker and the Vicious Circle
+tt0110622	The Naked Gun 33⅓: The Final Insult
+tt0110771	The Paper
+tt0110950	Reality Bites
+tt0105226	Red Rock West
+tt0110989	Ri¢hie Ri¢h
+tt0111054	Safe Passage
+tt0110997	The River Wild
+tt0111257	Speed
+tt0111256	Speechless
+tt0111438	Timecop
+tt0111503	True Lies
+tt0111693	When a Man Loves a Woman
+tt0111742	Wolf
+tt0111756	Wyatt Earp
+tt0112443	Bad Company
+tt0110455	A Man of No Importance
+tt0111048	S.F.W.
+tt0110399	A Low Down Dirty Shame
+tt0112570	Boys Life: Three Stories of Love, Lust, and Liberation
+tt0109454	Colonel Chabert
+tt0059170	Faster, Pussycat! Kill! Kill!
+tt0110186	Jason's Lyric
+tt0108069	The Secret Adventures of Tom Thumb
+tt0111301	Street Fighter
+tt0112702	Coldblooded
+tt0112849	Desert Winds
+tt0113014	Fall Time
+tt0113043	The Fear
+tt0113104	Frank and Ollie
+tt0113173	Girl in the Cadillac
+tt0113319	Homage
+tt0113827	Mirage
+tt0114047	Open Season
+tt0112889	Dos Crímenes
+tt0109339	Brother Minister: The Assassination of Malcolm X
+tt0110027	Highlander: The Final Dimension
+tt0109785	Federal Hill
+tt0113409	In the Mouth of Madness
+tt0109021	8 Seconds
+tt0109035	Above the Rim
+tt0106220	Addams Family Values
+tt0111804	Martin Lawrence: You So Crazy
+tt0106226	The Age of Innocence
+tt0109068	Airheads
+tt0109067	The Air Up There
+tt0106292	Another Stakeout
+tt0109198	Bad Girls
+tt0109219	Barcelona
+tt0106379	Being Human
+tt0106400	The Beverly Hillbillies
+tt0109254	Beverly Hills Cop III
+tt0109279	Black Beauty
+tt0109297	Blink
+tt0109303	Blown Away
+tt0109305	Blue Chips
+tt0109306	Blue Sky
+tt0106452	Body Snatchers
+tt0106471	Boxing Helena
+tt0106489	A Bronx Tale
+tt0109361	Cabin Boy
+tt0106505	Calendar Girl
+tt0106519	Carlito's Way
+tt0109439	City Slickers II: The Legend of Curly's Gold
+tt0109443	Clean Slate
+tt0106582	Cliffhanger
+tt0106598	Coneheads
+tt0109456	Color of Night
+tt0109480	Cops & Robbersons
+tt0109493	The Cowboy Way
+tt0106660	Dangerous Game
+tt0106673	Dave
+tt0106677	Dazed and Confused
+tt0106697	Demolition Man
+tt0109729	The Endless Summer 2
+tt0106834	Even Cowgirls Get the Blues
+tt0106873	Fatal Instinct
+tt0106332	Farewell My Concubine
+tt0109783	The Favor
+tt0106881	Fearless
+tt0106880	Fear of a Black Hat
+tt0111732	With Honors
+tt0106926	Flesh and Bone
+tt0111712	Widows' Peak
+tt0106941	For Love or Money
+tt0106918	The Firm
+tt0106965	Free Willy
+tt0109842	Fresh
+tt0106977	The Fugitive
+tt0107004	Geronimo: An American Legend
+tt0109890	The Getaway
+tt0109891	Getting Even with Dad
+tt0109913	Go Fish
+tt0109920	A Good Man in Africa
+tt0107057	Guilty as Sin
+tt0107076	Hard Target
+tt0107096	Heaven & Earth
+tt0107144	Hot Shots! Part Deux
+tt0113674	Live Nude Girls
+tt0112966	The Englishman Who Went Up a Hill But Came Down a Mountain
+tt0107151	The House of the Spirits
+tt0110064	House Party 3
+tt0110074	The Hudsucker Proxy
+tt0110097	I'll Do Anything
+tt0110123	In the Army Now
+tt0107206	In the Line of Fire
+tt0107207	In the Name of the Father
+tt0110137	The Inkwell
+tt0108551	What's Love Got to Do with It
+tt0110197	Jimmy Hollywood
+tt0107286	Judgment Night
+tt0107290	Jurassic Park
+tt0107302	Kalifornia
+tt0110265	Killing Zoe
+tt0107322	King of the Hill
+tt0110305	Lassie
+tt0107362	Last Action Hero
+tt0107413	Life With Mikey
+tt0110353	Lightning Jack
+tt0107468	M. Butterfly
+tt0107478	Made in America
+tt0107497	Malice
+tt0107501	The Man without a Face
+tt0107507	Manhattan Murder Mystery
+tt0107554	Menace II Society
+tt0116253	Executive Decision
+tt0074102	In the Realm of the Senses
+tt0111689	What Happened Was...
+tt0107616	Much Ado About Nothing
+tt0107611	Mr. Jones
+tt0107613	Mr. Wonderful
+tt0107614	Mrs. Doubtfire
+tt0107653	Naked
+tt0110657	The Next Karate Kid
+tt0110649	The New Age
+tt0110678	No Escape
+tt0110687	North
+tt0107756	Orlando
+tt0107808	A Perfect World
+tt0107818	Philadelphia
+tt0107822	The Piano
+tt0107840	Poetic Justice
+tt0107889	The Program
+tt0111003	The Puppet Masters
+tt0110939	Radioland Murders
+tt0110955	The Ref
+tt0107943	The Remains of the Day
+tt0110971	Renaissance Man
+tt0107969	Rising Sun
+tt0111001	The Road to Wellville
+tt0107978	RoboCop 3
+tt0107977	Robin Hood: Men in Tights
+tt0107983	Romeo Is Bleeding
+tt0105275	Romper Stomper
+tt0108000	Ruby in Paradise
+tt0108002	Rudy
+tt0108026	The Saint of Fort Washington
+tt0105032	Savage Nights
+tt0108052	Schindler's List
+tt0111094	The Scout
+tt0108065	Searching for Bobby Fischer
+tt0111102	Second Best
+tt0108071	The Secret Garden
+tt0111127	Serial Mom
+tt0111143	The Shadow
+tt0108101	Shadowlands
+tt0108122	Short Cuts
+tt0111194	A Simple Twist of Fate
+tt0111201	Sirens
+tt0108149	Six Degrees of Separation
+tt0108160	Sleepless in Seattle
+tt0108162	Sliver
+tt0083658	Blade Runner
+tt0108186	Son in Law
+tt0108174	So I Married an Axe Murderer
+tt0108238	Striking Distance
+tt0089256	Harem
+tt0108255	Super Mario Bros.
+tt0111323	Surviving the Game
+tt0111400	Terminal Velocity
+tt0108328	Thirty Two Short Films About Glenn Gould
+tt0111418	Threesome
+tt0107688	The Nightmare Before Christmas
+tt0108333	The Three Musketeers
+tt0108358	Tombstone
+tt0111488	Trial by Jury
+tt0108399	True Romance
+tt0108515	The War Room
+tt0110763	The Pagemaster
+tt0107779	Paris, France
+tt0109226	The Beans of Egypt, Maine
+tt0110259	Killer
+tt0114906	Welcome to the Dollhouse
+tt0107002	Germinal
+tt0109403	Chasers
+tt0104029	Cronos
+tt0110623	Naked in New York
+tt0107315	Kika
+tt0106408	Bhaji on the Beach
+tt0110363	Little Big League
+tt0107349	The Slingshot
+tt0111709	Wide Eyed and Legless
+tt0109828	Foreign Student
+tt0107225	Ciao, Professore!
+tt0111252	Spanking the Monkey
+tt0110366	The Little Rascals
+tt0106878	À la mode
+tt0109120	Andre
+tt0108059	The Escort
+tt0110892	Princess Caraboo
+tt0112651	The Celluloid Closet
+tt0107642	Café au Lait
+tt0109382	Dear Diary
+tt0106678	I Don't Want to Talk About It
+tt0112572	The Brady Bunch Movie
+tt0099785	Home Alone
+tt0099653	Ghost
+tt0103639	Aladdin
+tt0103064	Terminator 2: Judgment Day
+tt0099348	Dances with Wolves
+tt0114706	Tough and Deadly
+tt0096895	Batman
+tt0102926	The Silence of the Lambs
+tt0029583	Snow White and the Seven Dwarfs
+tt0101414	Beauty and the Beast
+tt0032910	Pinocchio
+tt0100405	Pretty Woman
+tt0110719	Window to Paris
+tt0065214	The Wild Bunch
+tt0110395	Love and a .45
+tt0111752	The Wooden Man's Bride
+tt0109934	A Great Day in Harlem
+tt0112606	Bye Bye Love
+tt0117247	One Fine Day
+tt0112625	Candyman: Farewell to the Flesh
+tt0106537	Century
+tt0116282	Fargo
+tt0116552	Homeward Bound II: Lost in San Francisco
+tt0082509	Heavy Metal
+tt0116514	Hellraiser: Bloodline
+tt0117283	The Pallbearer
+tt0116684	Jane Eyre
+tt0110374	Loaded
+tt0070506	Bread and Chocolate
+tt0065421	The Aristocats
+tt0113083	The Flower of My Secret
+tt0118001	Two Much
+tt0116165	Ed
+tt0102855	Scream of Stone
+tt0107471	My Favorite Season
+tt0113839	A Modern Affair
+tt0112712	Condition Red
+tt0090665	Halfaouine: Boy of the Terraces
+tt0117891	A Thin Line Between Love and Hate
+tt0113613	The Last Supper
+tt0117381	Primal Fear
+tt0114305	Rude
+tt0115837	Carried Away
+tt0115509	All Dogs Go to Heaven 2
+tt0114671	Land and Freedom
+tt0112844	Denise Calls Up
+tt0114658	Theodore Rex
+tt0116275	A Family Thing
+tt0113122	Frisk
+tt0117608	Sgt. Bilko
+tt0113448	Jack & Sarah
+tt0116414	Girl 6
+tt0116095	Diabolique
+tt0111543	Little Indian, Big City
+tt0117517	Roula
+tt0113947	Nelly and Monsieur Arnaud
+tt0115956	Courage Under Fire
+tt0117060	Mission: Impossible
+tt0109028	Cold Fever
+tt0117071	Moll Flanders
+tt0112257	301, 302
+tt0116136	DragonHeart
+tt0117117	My Mother's Courage
+tt0116168	Eddie
+tt0111787	Yankee Zulu
+tt0112509	Billy's Holiday
+tt0054189	Purple Noon
+tt0115591	August
+tt0116683	James and the Giant Peach
+tt0116287	Fear
+tt0116768	Kids in the Hall: Brain Candy
+tt0116269	Faithful
+tt0114787	Underground
+tt0113720	All Things Fair
+tt0112536	Bloodsport II
+tt0048473	Pather Panchali
+tt0052572	The World of Apu
+tt0117128	Mystery Science Theater 3000: The Movie
+tt0114616	Tarantella
+tt0117705	Space Jam
+tt0062711	Barbarella
+tt0110061	Hostile Intentions
+tt0140614	They Bite
+tt0108181	Some Folks Call It a Sling Blade
+tt0114307	The Run of the Country
+tt0058898	Alphaville
+tt0082206	Coup de Torchon
+tt0111430	Tigrero: A Film That Was Never Made
+tt0107727	The Eye of Vichy
+tt0081759	Windows
+tt0113443	It's My Party
+tt0109491	Country Life
+tt0114048	Operation Dumbo Drop
+tt0111613	The Promise
+tt0117104	Mrs. Winterbourne
+tt0117688	Solo
+tt0117774	The Substitute
+tt0114736	True Crime
+tt0112604	Butterfly Kiss
+tt0116289	Feeling Minnesota
+tt0109593	Delta of Venus
+tt0103095	To Cross the Rubicon
+tt0112368	Angus
+tt0104046	Priest Daens
+tt0062952	Faces
+tt0115742	Boys
+tt0117420	The Quest
+tt0115951	Cosi
+tt0117784	Sunset Park
+tt0117107	Mulholland Falls
+tt0117979	The Truth About Cats & Dogs
+tt0095776	Oliver & Company
+tt0115851	Celtic Pride
+tt0116322	Flipper
+tt0109374	Captives
+tt0110712	Of Love and Shadows
+tt0112817	Dead Man
+tt0113362	The Horseman on the Roof
+tt0073778	Switchblade Sisters
+tt0112546	Mouth to Mouth
+tt0108500	The Visitors
+tt0117108	Multiplicity
+tt0113270	The Haunted World of Edward D. Wood, Jr.
+tt0333373	Two Friends
+tt0115963	The Craft
+tt0116448	The Great White Hype
+tt0116827	Last Dance
+tt0114894	War Stories Our Mother Never Told Us
+tt0112701	Cold Comfort Farm
+tt0113429	Institute Benjamenta, or This Dream People Call Human Life
+tt0116508	Heaven's Prisoners
+tt0117260	Original Gangstas
+tt0117500	The Rock
+tt0116405	Getting Away with Murder
+tt0109592	Cemetery Man
+tt0117998	Twister
+tt0115624	Barb Wire
+tt0113145	Le Garçu
+tt0116559	Honeymoon
+tt0113568	Ghost in the Shell
+tt0117894	Thinner
+tt0117723	Spy Hard
+tt0112586	Brothers in Trouble
+tt0112691	A Close Shave
+tt0040366	Force of Evil
+tt0117768	The Stupids
+tt0115571	The Arrival
+tt0031612	The Man from Down Under
+tt0057012	Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+tt0103926	Careful
+tt0105737	Vermont Is for Lovers
+tt0113849	A Month by the Lake
+tt0113188	Gold Diggers: The Secret of Bear Mountain
+tt0042644	Kim
+tt0109381	Carmen Miranda: Bananas Is My Business
+tt0109688	Ashes of Time
+tt0104606	The Jar
+tt0110480	Maya Lin: A Strong Clear Vision
+tt0108211	Stalingrad
+tt0117331	The Phantom
+tt0117765	Striptease
+tt0116833	The Last of the High Kings
+tt0113280	Heavy
+tt0116669	Jack
+tt0116594	I Shot Andy Warhol
+tt0113211	The Grass Harp
+tt0114494	Someone Else's America
+tt0094265	Life is Rosy
+tt0105201	Quartier Mozart
+tt0070820	Touki Bouki
+tt0084898	God's Gift
+tt0063715	Spirits of the Dead
+tt0109191	Babyfever
+tt0114122	Pharaoh's  Army
+tt0117951	Trainspotting
+tt0118523	Til There Was You
+tt0116629	Independence Day
+tt0117737	Stealing Beauty
+tt0116277	The Fan
+tt0116583	The Hunchback of Notre Dame
+tt0115798	The Cable Guy
+tt0116778	Kingpin
+tt0116213	Eraser
+tt0113147	The Gate of Heavenly Peace
+tt0117218	The Nutty Professor
+tt0100990	I, the Worst of All
+tt0111546	An Unforgettable Summer
+tt0093199	A Hungarian Fairy Tale
+tt0106810	My Life and Times With Antonin Artaud
+tt0111180	Midnight Dancers
+tt0111237	Somebody to Love
+tt0072362	A Very Natural Thing
+tt0103207	The Old Lady Who Walked in the Sea
+tt0116040	Daylight
+tt0116365	The Frighteners
+tt0116905	Lone Star
+tt0116493	Harriet the Spy
+tt0117333	Phenomenon
+tt0118113	Walking and Talking
+tt0117628	She's the One
+tt0117913	A Time to Kill
+tt0115530	American Buffalo
+tt0114266	Rendezvous in Paris
+tt0115493	Alaska
+tt0116320	Fled
+tt0116756	Kazaam
+tt0109356	Magic Hunter
+tt0116823	Larger Than Life
+tt0114170	Power 98
+tt0117999	Two Deaths
+tt0118073	A Very Brady Sequel
+tt0108220	Stefano Quantestorie
+tt0049521	Death in the Garden
+tt0104403	Hedd Wyn
+tt0061495	La Collectionneuse
+tt0110246	Kaspar Hauser
+tt0116164	Regular Guys
+tt0112716	The Convent
+tt0115472	The Adventures of Pinocchio
+tt0116707	Joe's Apartment
+tt0116313	The First Wives Club
+tt0114550	Stonewall
+tt0117438	Ransom
+tt0116531	High School High
+tt0117332	Phat Beach
+tt0116353	Foxfire
+tt0115857	Chain Reaction
+tt0117008	Matilda
+tt0116191	Emma
+tt0115986	The Crow: City of Angels
+tt0116571	House Arrest
+tt0053459	Eyes Without a Face
+tt0117826	Bordello of Blood
+tt0113695	Lotto Land
+tt0108227	The Story of Xinghua
+tt0113080	Flirt
+tt0115680	The Big Squeeze
+tt0117718	The Spitfire Grill
+tt0116225	Escape from L.A.
+tt0112767	Cyclo
+tt0115632	Basquiat
+tt0117918	Tin Cup
+tt0104109	Dingo
+tt0051980	The Ballad of Narayama
+tt0100840	Every Other Weekend
+tt0042054	Crows and Sparrows
+tt0068646	The Godfather
+tt0109255	Maybe... Maybe Not
+tt0104558	Police Story 3: Supercop
+tt0116985	Manny & Lo
+tt0046468	Wife
+tt0114474	Small Faces
+tt0115736	Bound
+tt0115836	Carpool
+tt0101692	Death in Brunswick
+tt0116745	Kansas City
+tt0119214	Gone Fishin'
+tt0116934	Lover's Knot
+tt0109066	Vive L'Amour
+tt0075169	Shadow of Angels
+tt0113542	Killer: A Journal of Murder
+tt0110693	Nothing to Lose
+tt0106544	Project S
+tt0116418	Girls Town
+tt0112607	Bye-Bye
+tt0120004	The Relic
+tt0116654	The Island of Dr. Moreau
+tt0116311	First Kid
+tt0117965	The Trigger Effect
+tt0114592	Sweet Nothing
+tt0115725	Bogus
+tt0115783	Bulletproof
+tt0120271	Talk of Angels
+tt0113596	The Land Before Time III: The Time of the Great Giving
+tt0109001	1-900
+tt0113253	Halloween: The Curse of Michael Myers
+tt0117991	Twelfth Night
+tt0117093	Mother Night
+tt0024252	Liebelei
+tt1684935	Venice
+tt0111019	Wild Reeds
+tt0035896	For Whom the Bell Tolls
+tt0032904	The Philadelphia Story
+tt0045152	Singin' in the Rain
+tt0043278	An American in Paris
+tt0050419	Funny Face
+tt0054698	Breakfast at Tiffany's
+tt0052357	Vertigo
+tt0047396	Rear Window
+tt0025316	It Happened One Night
+tt0036855	Gaslight
+tt0025164	The Gay Divorcee
+tt0053125	North by Northwest
+tt0053604	The Apartment
+tt0053291	Some Like It Hot
+tt0056923	Charade
+tt0034583	Casablanca
+tt0033870	The Maltese Falcon
+tt0058385	My Fair Lady
+tt0047437	Sabrina
+tt0046250	Roman Holiday
+tt0031580	The Little Princess
+tt0037059	Meet Me in St. Louis
+tt0032138	The Wizard of Oz
+tt0031381	Gone with the Wind
+tt0084370	My Favorite Year
+tt0043014	Sunset Boulevard
+tt0033467	Citizen Kane
+tt0062622	2001: A Space Odyssey
+tt0039428	Golden Earrings
+tt0042192	All About Eve
+tt0032143	The Women
+tt0032976	Rebecca
+tt0032484	Foreign Correspondent
+tt0038787	Notorious
+tt0038109	Spellbound
+tt0050105	An Affair to Remember
+tt0048728	To Catch a Thief
+tt0042451	Father of the Bride
+tt0045537	The Band Wagon
+tt0031725	Ninotchka
+tt0050658	Love in the Afternoon
+tt0051658	Gigi
+tt0052126	The Reluctant Debutante
+tt0029843	The Adventures of Robin Hood
+tt0032762	The Mark of Zorro
+tt0037008	Laura
+tt0039420	The Ghost and Mrs. Muir
+tt0029162	Lost Horizon
+tt0027125	Top Hat
+tt0035446	To Be or Not to Be
+tt0028010	My Man Godfrey
+tt0049261	Giant
+tt0048028	East of Eden
+tt0025878	The Thin Man
+tt0032599	His Girl Friday
+tt0048960	Around the World in Eighty Days
+tt0038650	It's a Wonderful Life
+tt0031679	Mr. Smith Goes to Washington
+tt0029947	Bringing Up Baby
+tt0034012	Penny Serenade
+tt0017350	The Scarlet Letter
+tt0036094	Lady of Burlesque
+tt0025586	Of Human Bondage
+tt0038300	Angel on My Shoulder
+tt0027893	Little Lord Fauntleroy
+tt0032022	They Made Me a Criminal
+tt0041509	The Inspector General
+tt0039152	Angel and the Badman
+tt0026029	The 39 Steps
+tt0038235	A Walk in the Sun
+tt0036241	The Outlaw
+tt0063350	Night of the Living Dead
+tt0043265	The African Queen
+tt0046414	Beat the Devil
+tt0051459	Cat on a Hot Tin Roof
+tt0047162	The Last Time I Saw Paris
+tt0033891	Meet John Doe
+tt0029855	Algiers
+tt0029588	Something to Sing About
+tt0022879	A Farewell to Arms
+tt0027980	Moonlight Murder
+tt0114007	Nothing Personal
+tt0093229	Yes, Madam
+tt0118927	Dangerous Ground
+tt0048491	Picnic
+tt0113730	Madagascar Skin
+tt0117357	The Pompatus of Love
+tt0117669	Small Wonders
+tt0116329	Fly Away Home
+tt0118742	Bliss
+tt0116442	Grace of My Heart
+tt0114354	Brother of Sleep
+tt0117011	Maximum Risk
+tt0117039	Michael Collins
+tt0117473	The Rich Man's Wife
+tt0116635	Infinity
+tt0115678	Big Night
+tt0116830	Last Man Standing
+tt0115847	Caught
+tt0117603	Set It Off
+tt0115438	2 Days in the Valley
+tt0115994	Curdled
+tt0083587	L'associé
+tt0116167	Ed's Next Move
+tt0116259	Extreme Measures
+tt0116421	The Glimmer Man
+tt0116000	D3: The Mighty Ducks
+tt0115862	The Chamber
+tt0072653	The Apple Dumpling Gang
+tt0047977	Davy Crockett, King of the Wild Frontier
+tt0072951	Escape to Witch Mountain
+tt0064603	The Love Bug
+tt0071607	Herbie Rides Again
+tt0050798	Old Yeller
+tt0055277	The Parent Trap
+tt0054195	Pollyanna
+tt0107131	Homeward Bound: The Incredible Journey
+tt0053271	The Shaggy Dog
+tt0054357	Swiss Family Robinson
+tt0059793	That Darn Cat!
+tt0046672	20,000 Leagues Under the Sea
+tt0106611	Cool Runnings
+tt0109127	Angels in the Outfield
+tt0042332	Cinderella
+tt0063819	Winnie the Pooh and the Blustery Day
+tt0038166	The Three Caballeros
+tt0057546	The Sword in the Stone
+tt0041890	So Dear to My Heart
+tt0102798	Robin Hood: Prince of Thieves
+tt0058331	Mary Poppins
+tt0033563	Dumbo
+tt0076538	Pete's Dragon
+tt0066817	Bedknobs and Broomsticks
+tt0043274	Alice in Wonderland
+tt0082406	The Fox and the Hound
+tt0116361	Freeway
+tt0059742	The Sound of Music
+tt0095016	Die Hard
+tt0104692	The Lawnmower Man
+tt0118044	Unhook the Stars
+tt0114597	Synthetic Pleasures
+tt0117582	The Secret Agent

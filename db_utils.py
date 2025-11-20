@@ -2,11 +2,12 @@ def movie_finder(title_arr,db_collection):
     if not title_arr:
         return []
     
+    title_lower = [title.lower() for title in title_arr]
     try:
         # Query the database for the given titles
         results = db_collection.get(
             
-            where = {"title": {"$in": title_arr}},
+            where = {"title_lower": {"$in": title_lower}},
             include = []
         )
         

@@ -4,6 +4,8 @@ import numpy as np
 from openai import AzureOpenAI
 from dotenv import load_dotenv
 from db_utils import movie_finder
+import json
+
 
 
 
@@ -41,18 +43,37 @@ except Exception as e:
 def run_app_file(user_input):
     """Main function that accepts user input and runs the recommendation engine."""
 
-# --- 2. USER INPUT ---
-# This is our mock user. They have "liked" these movies.
-# We use the imdb_id's for the movies we like
+#user input block  
+    print(f"Processing user input {user_input}")
+    extraction_system_prompt = """
+    You are a helpful assistant that extracts movie titles from text.
+    Identify the movies the user likes or is interested in.
+    Ignore movies the user explicitly says they dislike.
+    Output a JSON object with a key "movies" containing a list of strings.
+    Example Input: "I really loved Inception and The Matrix, but I hated Toy Story"
+    Example Output: {"movies": ["Inception", "The Matrix"]}
+    """
     try :
-        USER_LIKES = [title.strip() for title in user_input.split(",") if title.strip()]
-        if not USER_LIKES:
-             USER_LIKES = ["Heat", "GoldenEye", "Sudden Death"]
-    
+        #using existing client to extract movie titles
+        extracted_response = azure_client.chat.completions.create(
+            model = AZURE_DEPLOYMENT_NAME,
+            messages = [
+                {"role": "system", "content": extraction_system_prompt},
+                {"role": "user", "content": user_input}
+            ],
+            response_format = {"type": "json_object"}
+        )
+
+        extracted_response = json.loads(extracted_response.choices[0].message.content)
+        USER_LIKES = extracted_response.get("movies", [])
+        print(f"Extracted {len(USER_LIKES)} movies from user input.")
     except Exception as e:
-        print(f"Error reading user likes: {e}")
-        exit()
-    print(f"\nMock User Likes: {', '.join(USER_LIKES)}")
+        print(f"Error extracting movies from user input: {e}")
+        return
+
+    print(f" Identified {len(USER_LIKES)} movies from user input.")
+     
+
 
 
 # --- 3. USER PROFILE EMBEDDING ---
@@ -120,6 +141,12 @@ You are a helpful and enthusiastic movie recommendation assistant.
 Your job is to rank a list of candidate movies based on a user's known preferences.
 You must explain *why* each movie is a good recommendation, connecting it to the user's liked movies.
 Present the output as a ranked list (1, 2, 3...).
+GIVE THE OUTPUT STRICTLY IN JSON FORMAT WITH THE FOLLOWING STRUCTURE:
+{ 
+    "rank": <RANK>,
+    "title": "<MOVIE TITLE>",
+    "reason": "<EXPLANATION OF RECOMMENDATION>"
+    
 """
 
     # Format the user's likes and the candidates for the prompt
@@ -129,13 +156,14 @@ Present the output as a ranked list (1, 2, 3...).
     ])
 
     user_prompt = f"""
-Here's what I know about the user:
-- They LIKE: {liked_movies_str}
+    The user said: "{user_input}"
+    (Based on this, we extracted these likes: {liked_movies_str})
 
-Here are the top candidates you found:
-{candidate_movies_str}
+    Here are the top candidates found in the database:
+    {candidate_movies_str}
 
-Please rank these candidates from 1 to {len(candidates)} and explain why you are recommending each one based on the user's tastes.
+    Please rank these candidates from 1 to {len(candidates)}. 
+    In the 'reason', strictly reference the user's original request to explain why it fits.
 """
 
     # Send to Azure OpenAI
@@ -146,6 +174,7 @@ Please rank these candidates from 1 to {len(candidates)} and explain why you are
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt}
             ],
+            response_format={ "type": "json_object" } ,
             temperature=0.7
         )
         
