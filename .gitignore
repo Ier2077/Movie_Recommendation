@@ -6,6 +6,10 @@ dist/
 wheels/
 *.egg-info
 
+chroma_db/
+*.bin
+*.sqlite3
+
 # Virtual environments
 .venv
 .env 
