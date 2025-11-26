@@ -13,5 +13,6 @@ dependencies = [
     "openai>=2.7.2",
     "pandas>=2.3.3",
     "python-dotenv>=1.2.1",
+    "rapidfuzz>=3.14.3",
     "requests>=2.32.5",
 ]

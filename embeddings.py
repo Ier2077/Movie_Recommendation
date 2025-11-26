@@ -18,3 +18,5 @@ def create_embedding(text):
         input=text
     )
     return result.data[0].embedding
+
+
