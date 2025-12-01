@@ -38,7 +38,6 @@ def save_conversation_history(history):
         try:
             with open(HISTORY_FILE, "w", encoding="utf-8") as file:
                 json.dump(current_history, file, indent=4, ensure_ascii=False)
-            print(f"Conversation history updated with {len([e for e in new_entries if isinstance(e, str)])} new entries.")
         except Exception as e:
             print(f"Error saving conversation history: {e}")
 

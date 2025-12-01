@@ -1,4 +1,5 @@
 import json
+import sys
 from app_utils import init_azure_client, init_chromadb_collection
 from db_utils import movie_finder, get_movie_details, find_similar_movies
 from history_manager import load_conversation_history, save_conversation_history
@@ -43,15 +44,22 @@ def run_llm_with_function_call(user_input):
 
 1. Help users discover movies they'll love based on their preferences
 2. Provide detailed explanations for WHY each movie is recommended
-3. Use the conversation history to personalize recommendations{history_context}
+3. **ALWAYS prioritize the user's CURRENT input over past history**{history_context}
+
+IMPORTANT RULES:
+- When the user mentions a specific movie, genre, theme, or topic (like "car", "space", "romance"), ONLY recommend movies related to that current input
+- Past conversation history should ONLY be considered when:
+  a) The current query is vague or asks for "more recommendations"
+  b) The user explicitly asks to blend their past preferences with new ones
+- If the user says "I love [topic/movie]", find and recommend movies about that specific topic or similar to that movie
 
 When making recommendations:
-- Explain the connection between the user's preferences and each recommendation
+- Explain the connection between the user's CURRENT preferences and each recommendation
 - Highlight similar themes, genres, directors, actors, or storytelling styles
 - Be enthusiastic and engaging
 - Present recommendations in a clear, numbered format
 
-Use the get_movie_recommendations function when the user mentions specific movies they like."""
+Use the get_movie_recommendations function when the user mentions specific movies, genres, themes, or topics they're interested in."""
 
     messages = [
         {"role": "system", "content": system_prompt},
@@ -83,6 +91,7 @@ Use the get_movie_recommendations function when the user mentions specific movie
             
             if not movie_ids:
                 print(f"Sorry, I couldn't find any movies matching '{query}'. Please try a different title.")
+                sys.stdout.flush()
                 return
             
             # Step 2: Get full details of the seed movies
@@ -93,6 +102,7 @@ Use the get_movie_recommendations function when the user mentions specific movie
             
             if not similar_movies:
                 print(f"I found '{seed_movie_details[0]['title']}' but couldn't find similar movies. Please try another movie.")
+                sys.stdout.flush()
                 return
             
             # Save the user's preference to history
@@ -127,15 +137,22 @@ Use the get_movie_recommendations function when the user mentions specific movie
             )
 
             print(final.choices[0].message.content)
+            sys.stdout.flush()
             return
 
     # If no tool call, just print the response
     print(msg.content)
+    sys.stdout.flush()
 
 
 if __name__ == "__main__":
     while True:
-        user_input = input("🎬 What movies do you like? (type 'exit' to quit) ")
+        user_input = input("🎬 What movies do you like? (type 'exit' to quit) \n To delete history type 'clear' ")
         if user_input.lower() == "exit":
             break
+        elif user_input.lower() == "clear":
+            clear_conversation_history()
+            print("Conversation history cleared.")
+            continue
+
         run_llm_with_function_call(user_input)
